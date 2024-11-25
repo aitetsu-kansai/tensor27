@@ -1,36 +1,24 @@
-<br clear="both">
-
 <div align="center">
   <img height="500" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <h1 align="center">こんにちは, 𝗶'𝗺 𝘁𝗲𝗻𝘀𝗼𝗿</h1>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">About me</h3>
 
 ###
 
-<br clear="both">
-
 <h4 align="left">Specialization: frontend<br>Practice: 2 years<br>Age: 18</h4>
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Languages and tools:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -52,23 +40,17 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="center">Stats:</h3>
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tensor27&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1&custom_title=tensor's%20stats:" height="237" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=tensor27&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=22&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensor27&area=true&hide_border=true&hide_title=false&radius=22&theme=github-light&line=ff3763&point=7957d5&title_color=7957d5&area_color=7957d5&custom_title=Contribution%20Graph" height="500" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensor27&area=true&hide_border=true&hide_title=false&radius=22&theme=github-light&line=ff3763&point=7957d5&title_color=7957d5&area_color=7957d5&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ihmpdy2nitrpykbjsktvkooqqq">
@@ -78,20 +60,6 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">魂は不幸で、未来についての心配に満ちています</h2>
-
-###
-
-<br clear="both">
-
-<h2 align="center">と</h2>
-
-###
-
-<br clear="both">
-
-<h2 align="center">一日中ダーツを投げて、少なくとも一度はターゲットに当たらない人はいますか？</h2>
+<h2 align="center">魂は不幸で、未来についての心配に満ちています<br>と<br>一日中ダーツを投げて、少なくとも一度はターゲットに当たらない人はいますか？</h2>
 
 ###
