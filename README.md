@@ -1,27 +1,83 @@
-<h1 align="center">こんにちは, i'm tensor</h1>
+<br clear="both">
 
+<img align="right" height="300" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
 
-# tech stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-# github stats:
-<div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api?username=tensor27&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tensor27&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tensor27&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>  
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=tensor27&icon=5&color=12)](https://visitcount.itsvg.in)
+<h1 align="center">こんにちは, 𝗶'𝗺 𝘁𝗲𝗻𝘀𝗼𝗿</h1>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<h3 align="left">About me</h3>
+
+###
+
+<h4 align="left">Specialization: frontend<br>Practice: 2 years<br>Age: 18</h4>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Languages and tools:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="center">Stats:</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tensor27&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1&custom_title=tensor's%20stats:" height="237" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=tensor27&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=22&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensor27&area=true&hide_border=true&hide_title=false&radius=22&theme=github-light&line=ff3763&point=7957d5&title_color=7957d5&area_color=7957d5&custom_title=Contribution%20Graph" height="500" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31ihmpdy2nitrpykbjsktvkooqqq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ihmpdy2nitrpykbjsktvkooqqq&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">魂は不幸で、未来についての心配に満ちています</h2>
+
+###
+
+<br clear="both">
+
+<h2 align="center">と</h2>
+
+###
+
+<br clear="both">
+
+<h2 align="center">一日中ダーツを投げて、少なくとも一度はターゲットに当たらない人はいますか？</h2>
+
+###
