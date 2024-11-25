@@ -1,16 +1,24 @@
 <br clear="both">
 
-<img align="right" height="300" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
+<div align="center">
+  <img height="500" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">こんにちは, 𝗶'𝗺 𝘁𝗲𝗻𝘀𝗼𝗿</h1>
 
 ###
 
+<br clear="both">
+
 <h3 align="left">About me</h3>
 
 ###
+
+<br clear="both">
 
 <h4 align="left">Specialization: frontend<br>Practice: 2 years<br>Age: 18</h4>
 
@@ -22,7 +30,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
@@ -42,9 +52,13 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="center">Stats:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tensor27&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1&custom_title=tensor's%20stats:" height="237" alt="stats graph" /> <br>
