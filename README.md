@@ -6,14 +6,14 @@
 
 ###
 
-<h3 align="left">About me</h3>
+<h3 align="left">About me:</h3>
 
 ###
 
 <h4 align="left">Specialization: frontend<br>Practice: 2 years<br>Age: 18</h4>
 
 ###
-<h3 align="left">My specs</h3>
+<h3 align="left">My specs:</h3>
 <h4 align="left">GPU: AMD RX 6500XT<br>CPU: i3 10100f<br>RAM: Crucial 16GB<br>OS: Windows 11 23H2
 <br clear="both">
 
