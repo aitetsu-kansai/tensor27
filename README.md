@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
-</div>
+# こんにちは, 𝗶'𝗺 𝘁𝗲𝗻𝘀𝗼𝗿
+<img align="right" height="300" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
 
 ###
-
-<h1 align="center">こんにちは, 𝗶'𝗺 𝘁𝗲𝗻𝘀𝗼𝗿</h1>
+  
 
 ###
 
@@ -15,10 +13,15 @@
 <h4 align="left">Specialization: frontend<br>Practice: 2 years<br>Age: 18</h4>
 
 ###
+<h3 align="left">My specs</h3>
+<h4 align="left">GPU: AMD RX 6500XT<br>CPU: i3 10100f<br>RAM: Crucial 16GB<br>OS: Windows 11 23H2
+<br clear="both">
 
 <h3 align="center">Languages and tools:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -39,6 +42,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="center">Stats:</h3>
 
