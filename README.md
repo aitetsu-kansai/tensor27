@@ -1,5 +1,4 @@
 <h1 align="center">こんにちは, i'm tensor</h1>
-<h3 align="center">and i'm still breathing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tensor27&label=Profile%20views&color=0e75b6&style=flat" alt="tensor27" /> </p>
 
