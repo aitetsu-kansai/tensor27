@@ -50,9 +50,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tensor27&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1&custom_title=tensor's%20stats:" height="237" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=tensor27&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=22&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tensor27&area=true&hide_border=true&hide_title=false&radius=22&theme=github-light&line=ff3763&point=7957d5&title_color=7957d5&area_color=7957d5&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aitetsu-kansai&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=true&order=1&custom_title=tensor's%20stats:" height="237" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=aitetsu-kansai&locale=en&mode=daily&theme=buefy&hide_border=true&border_radius=22&order=3" height="220" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aitetsu-kansai&area=true&hide_border=true&hide_title=false&radius=22&theme=github-light&line=ff3763&point=7957d5&title_color=7957d5&area_color=7957d5&custom_title=Contribution%20Graph" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
